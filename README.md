@@ -18,6 +18,11 @@
   <li>Coding Challenge2_03 </li>
   <li>Coding Challenge2_04 </li>
 </ul>
+
+  <h4>Developer Skills & Debugging</h4> 
+<ul>
+  <li>Coding Challenge3_01 </li>
+</ul>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
