@@ -23,6 +23,12 @@
 <ul>
   <li>Coding Challenge5_01 </li>
 </ul>
+
+
+  <h4>DOM and Events Fundamentals </h4> 
+<ul>
+  <li>Coding Challenge7_01 </li>
+</ul>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
