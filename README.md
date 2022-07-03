@@ -1,8 +1,8 @@
 <h3 align="center">udemy_ The Complete JavaScript Course 2022: From Zero to Expert! &#127942; </h3>
 
-<h3 align="left">Course content &#9997;</h3>
+<h3 align="left">Course content &#9997; Welcome</h3>
 <p align="left">
-  <h4>JavaScript Fundamentals – Part 1</h4> 
+  <h4>JavaScript Fundamentals – Part I </h4> 
 <ul>
   <li> Coding Challenge1_00 </li>
   <li> Coding Challenge1_01 </li>
@@ -11,7 +11,7 @@
   <li>Coding Challenge1_04 </li>
 </ul>
 
-  <h4>JavaScript Fundamentals – Part 2</h4> 
+  <h4>JavaScript Fundamentals – Part II </h4> 
 <ul>
   <li>Coding Challenge2_01 </li>
   <li>Coding Challenge2_02 </li>
