@@ -1,6 +1,6 @@
 <h3 align="center">udemy_ The Complete JavaScript Course 2022: From Zero to Expert! &#127942; </h3>
 
-<h3 align="left">Course content &#9997; Welcome</h3>
+<h3 align="left">Course content &#9997; Welcome!</h3>
 <p align="left">
   <h4>JavaScript Fundamentals – Part I </h4> 
 <ul>
