@@ -33,6 +33,10 @@
   <li>Coding Challenge7_02 </li>
 </ul>
 
+<h4>How JavaScript Works Behind the Scenes </h4> 
+
+<h4>Data Structures, Modern Operator and Strings</h4> 
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
