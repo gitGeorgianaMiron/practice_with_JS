@@ -32,9 +32,7 @@
 <ul>
   <li>Coding Challenge7_02 </li>
 </ul>
-<ul>
-  <li>Coding Challenge7_03 </li>
-</ul>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
