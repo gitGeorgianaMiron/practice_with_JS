@@ -55,6 +55,14 @@
   <li>Coding Challenge9_04 </li>
 </ul>
 
+<h4>A Closer Look at Functions</h4> 
+<ul>
+  <li>Coding Challenge10_01 </li>
+</ul>
+<ul>
+  <li>Coding Challenge10_02 </li>
+</ul>
+
 </p>
 
 
