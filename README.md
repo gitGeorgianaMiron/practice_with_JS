@@ -34,8 +34,26 @@
 </ul>
 
 <h4>How JavaScript Works Behind the Scenes </h4> 
+<ul>
+  <li>Coding Challenge8_00 </li>
+</ul>
 
 <h4>Data Structures, Modern Operator and Strings</h4> 
+<ul>
+  <li>Coding Challenge9_00_strings </li>
+</ul>
+<ul>
+  <li>Coding Challenge9_01 </li>
+</ul>
+<ul>
+  <li>Coding Challenge9_02 </li>
+</ul>
+<ul>
+  <li>Coding Challenge9_03 </li>
+</ul>
+<ul>
+  <li>Coding Challenge9_04 </li>
+</ul>
 
 </p>
 
